@@ -1,7 +1,7 @@
 # Machine-Learning-Specialization
 
 ## Machine Regression
-- Simple Linear Regression
+- Simple Linear Regression 
 - Multiple Regression
 - Assessing Performance
 - Ridge Regression
@@ -23,6 +23,3 @@
 - Mixture models
 - Mixed membership Modeling Via Latent Dirichlet Allocation
 - Hierarchical Clustering & Closing Remark 
-
-
-
